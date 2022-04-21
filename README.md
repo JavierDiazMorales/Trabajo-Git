@@ -1,1 +1,2 @@
-# Trabajo-Git
+# Descripción general
+Trabajo-Git
